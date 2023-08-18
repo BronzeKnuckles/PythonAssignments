@@ -1,2 +1,6 @@
 # PythonAssignments
-Includes R assignments
+
+Python (and R) Assignments Repository
+
+
+
